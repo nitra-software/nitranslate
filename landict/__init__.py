@@ -1,0 +1,27 @@
+idiomas = {
+"Alemán": "de",
+"Árabe": "ar",
+"Catalán": "ca",
+"Corso": "co",
+"Criollo haitiano": "ht",
+"Croata": "hr",
+"Español": "es",
+"Esperanto": "eo",
+"Euskera": "eu",
+"Francés": "fr",
+"Gallego": "gl",
+"Griego": "el",
+"Indonesio": "id",
+"Inglés": "en",
+"Italiano": "it",
+"Japonés": "ja",
+"Latín": "la",
+"Maltés": "mt",
+"Portugués": "pt",
+"Rumano": "ro",
+"Ruso": "ru",
+"Servio": "sr",
+"Turco": "tr",
+}
+idiomas_naturales=list(idiomas.keys())
+
