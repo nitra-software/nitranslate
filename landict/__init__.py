@@ -8,9 +8,12 @@ idiomas = {
 "Español": "es",
 "Esperanto": "eo",
 "Euskera": "eu",
+"Filipino (Tagalo)": "tl",
 "Francés": "fr",
 "Gallego": "gl",
 "Griego": "el",
+"Holandés": "nl",
+"Hindi": "hi",
 "Indonesio": "id",
 "Inglés": "en",
 "Italiano": "it",
@@ -22,6 +25,7 @@ idiomas = {
 "Ruso": "ru",
 "Servio": "sr",
 "Turco": "tr",
+"Ucraniano": "uk",
 }
 idiomas_naturales=list(idiomas.keys())
 
