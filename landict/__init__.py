@@ -9,6 +9,7 @@ idiomas = {
 "Esperanto": "eo",
 "Euskera": "eu",
 "Filipino (Tagalo)": "tl",
+"Finés": "fi",
 "Francés": "fr",
 "Gallego": "gl",
 "Griego": "el",
