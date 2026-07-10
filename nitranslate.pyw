@@ -8,7 +8,7 @@ diccionario=landict.idiomas
 
 class Ventana(wx.Frame):
 	def __init__(self):
-		super().__init__(parent=None, title="Nitranslate, versión 2026.1.1")
+		super().__init__(parent=None, title="Nitranslate, versión 26.1.2")
 		panel=wx.Panel(self)
 		trad1_label = wx.StaticText(panel, label="Selecciona el idioma de origen")
 		self.idioma_origen = wx.Choice(panel, choices=idiomas)

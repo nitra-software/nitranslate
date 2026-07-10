@@ -25,6 +25,7 @@ idiomas = {
 "Rumano": "ro",
 "Ruso": "ru",
 "Servio": "sr",
+"Sueco": "sv",
 "Turco": "tr",
 "Ucraniano": "uk",
 }
