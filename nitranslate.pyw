@@ -1,14 +1,14 @@
 from pyperclip import copy
 import landict
 import wx
-from deep_translator import GoogleTranslator
+import translator
 import threading
 idiomas = landict.idiomas_naturales
 diccionario=landict.idiomas
 
 class Ventana(wx.Frame):
 	def __init__(self):
-		super().__init__(parent=None, title="Nitranslate, versión 26.1.2")
+		super().__init__(parent=None, title="Nitranslate, versión 26.1.3")
 		panel=wx.Panel(self)
 		trad1_label = wx.StaticText(panel, label="Selecciona el idioma de origen")
 		self.idioma_origen = wx.Choice(panel, choices=idiomas)
@@ -40,15 +40,8 @@ class Ventana(wx.Frame):
 		if idioma_origen==self.destino:
 			wx.MessageBox("No es posible realizar la traducción si los idiomas de origen y destino coinciden", "Error", wx.ICON_ERROR)
 			return
-		try:
-			traductor = GoogleTranslator(source=idioma_origen, target=self.destino)
-			self.traducido = traductor.translate(texto)
-			copy(self.traducido)
-			wx.MessageBox(f"Texto traducido: {self.traducido}", "Operación realizada con éxito", wx.OK)
-		except Exception as e:
-			wx.MessageBox(f"No es posible realizar la traducción. El error se copió al portapapeles, si esto es un problema, no dudes en enviar una issue al repositorio. {e}.", "Error", wx.ICON_ERROR)
-			copy(e)
-
+		hilo=threading.Thread(target=translator.translate, args=(idioma_origen, self.destino, texto,))
+		hilo.start()
 app=wx.App()
 Ventana()
 app.MainLoop()
