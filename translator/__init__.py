@@ -8,6 +8,6 @@ def translate(source, target, text):
 		traductor = GoogleTranslator(source, target)
 		result=traductor.translate(text)
 		copy(result)
-		wx.MessageBox(f"Se tradujo correctamente el texto. La traducción se copió al portapapeles, y es la siguiente: {result}")
+		wx.MessageBox(f"Se tradujo correctamente el texto. La traducción se copió al portapapeles, y es la siguiente: {result}", "Traducción realizada con éxito")
 	except:
-		wx.MessageBox("Se produjo un error al realizar la traducción. Verifica tu conexión a Internet y vuelve a intentarlo")
+		wx.MessageBox("Se produjo un error al realizar la traducción. Verifica tu conexión a Internet y vuelve a intentarlo", "Error")
