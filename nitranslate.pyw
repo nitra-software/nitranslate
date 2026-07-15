@@ -26,19 +26,19 @@ class Ventana(wx.Frame):
 		self.origen = self.idioma_origen.GetStringSelection()
 		idioma_origen=diccionario[self.origen]
 		if idioma_origen=="":
-			wx.MessageBox("No se ha seleccionado ningún idioma de origen", "Error", wx.ICON_ERROR)
+			wx.MessageBox("No se ha seleccionado ningún idioma de origen", "Error")
 			return
 		self.Destino = self.idioma_destino.GetStringSelection()
 		self.destino=diccionario[self.Destino]
 		if self.destino=="":
-			wx.MessageBox("No se ha seleccionado ningún idioma de destino", "Error", wx.ICON_ERROR)
+			wx.MessageBox("No se ha seleccionado ningún idioma de destino", "Error")
 			return
 		texto = self.entrada_texto.GetValue()
 		if texto=="":
-			wx.MessageBox("No se ha introducido nada en el cuadro de edición para realizar la traducción", "Error", wx.ICON_ERROR)
+			wx.MessageBox("No se ha introducido nada en el cuadro de edición para realizar la traducción", "Error")
 			return
 		if idioma_origen==self.destino:
-			wx.MessageBox("No es posible realizar la traducción si los idiomas de origen y destino coinciden", "Error", wx.ICON_ERROR)
+			wx.MessageBox("No es posible realizar la traducción si los idiomas de origen y destino coinciden", "Error")
 			return
 		hilo=threading.Thread(target=translator.translate, args=(idioma_origen, self.destino, texto,))
 		hilo.start()
