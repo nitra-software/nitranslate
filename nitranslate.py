@@ -3,9 +3,10 @@ import landict
 import wx
 import translator
 import threading
+from translations_handler import set_language
 idiomas = landict.idiomas_naturales
 diccionario=landict.idiomas
-
+set_language("change this to english if you want the program in this language.")
 class Ventana(wx.Frame):
 	def __init__(self):
 		super().__init__(parent=None, title=_("Nitranslate, versión 26.1.4"))
