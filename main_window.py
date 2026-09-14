@@ -3,8 +3,6 @@ import landict
 import wx
 import translator
 import threading
-from translations_handler import set_language
-import languages
 import set_language_dialog
 idiomas = landict.idiomas_naturales
 diccionario=landict.idiomas
