@@ -4,9 +4,11 @@ import wx
 import translator
 import threading
 from translations_handler import set_language
+import languages
+import set_language_dialog
 idiomas = landict.idiomas_naturales
 diccionario=landict.idiomas
-set_language("change this to english if you want the program in this language.")
+
 class Ventana(wx.Frame):
 	def __init__(self):
 		super().__init__(parent=None, title=_("Nitranslate, versión 26.1.4"))
@@ -29,6 +31,9 @@ class Ventana(wx.Frame):
 		btn_trad = wx.Button(panel, label=_("&Traducir"))
 		sizer.Add(btn_trad, 0, wx.ALL, 5)
 		btn_trad.Bind(wx.EVT_BUTTON, self.on_translate)
+		btn_lang=wx.Button(panel, label=_("Cambiar idio&ma"))
+		sizer.Add(btn_lang, 0, wx.ALL, 5)
+		btn_lang.Bind(wx.EVT_BUTTON, self.changlang)
 		panel.SetSizer(sizer)
 		self.Show()
 
@@ -52,6 +57,6 @@ class Ventana(wx.Frame):
 			return
 		hilo=threading.Thread(target=translator.translate, args=(idioma_origen, self.destino, texto,))
 		hilo.start()
-app=wx.App()
-Ventana()
-app.MainLoop()
+
+	def changlang(self, event):
+		set_language_dialog.setLanguage(self)
