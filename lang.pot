@@ -1,0 +1,216 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-09-15 18:48+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: landict.py:2
+msgid "Alemán"
+msgstr ""
+
+#: landict.py:3
+msgid "Árabe"
+msgstr ""
+
+#: landict.py:4
+msgid "Catalán"
+msgstr ""
+
+#: landict.py:5
+msgid "Corso"
+msgstr ""
+
+#: landict.py:6
+msgid "Criollo haitiano"
+msgstr ""
+
+#: landict.py:7
+msgid "Croata"
+msgstr ""
+
+#: landict.py:8
+msgid "Español"
+msgstr ""
+
+#: landict.py:9
+msgid "Esperanto"
+msgstr ""
+
+#: landict.py:10
+msgid "Euskera"
+msgstr ""
+
+#: landict.py:11
+msgid "Filipino (Tagalo)"
+msgstr ""
+
+#: landict.py:12
+msgid "Finés"
+msgstr ""
+
+#: landict.py:13
+msgid "Francés"
+msgstr ""
+
+#: landict.py:14
+msgid "Gallego"
+msgstr ""
+
+#: landict.py:15
+msgid "Griego"
+msgstr ""
+
+#: landict.py:16
+msgid "Holandés"
+msgstr ""
+
+#: landict.py:17
+msgid "Hindi"
+msgstr ""
+
+#: landict.py:18
+msgid "Indonesio"
+msgstr ""
+
+#: landict.py:19
+msgid "Inglés"
+msgstr ""
+
+#: landict.py:20
+msgid "Italiano"
+msgstr ""
+
+#: landict.py:21
+msgid "Japonés"
+msgstr ""
+
+#: landict.py:22
+msgid "Latín"
+msgstr ""
+
+#: landict.py:23
+msgid "Maltés"
+msgstr ""
+
+#: landict.py:24
+msgid "Portugués"
+msgstr ""
+
+#: landict.py:25
+msgid "Rumano"
+msgstr ""
+
+#: landict.py:26
+msgid "Ruso"
+msgstr ""
+
+#: landict.py:27
+msgid "Serbio"
+msgstr ""
+
+#: landict.py:28
+msgid "Sueco"
+msgstr ""
+
+#: landict.py:29
+msgid "Turco"
+msgstr ""
+
+#: landict.py:30
+msgid "Ucraniano"
+msgstr ""
+
+#: main_window.py:13
+#, python-brace-format
+msgid "Nitranslate, versión {}"
+msgstr ""
+
+#: main_window.py:16
+msgid "Selecciona el idioma de origen"
+msgstr ""
+
+#: main_window.py:21
+msgid "Escribe aquí el texto que quieres traducir: "
+msgstr ""
+
+#: main_window.py:25
+msgid "Selecciona el idioma de destino"
+msgstr ""
+
+#: main_window.py:30
+msgid "&Traducir"
+msgstr ""
+
+#: main_window.py:33
+msgid "Cambiar idio&ma"
+msgstr ""
+
+#: main_window.py:43
+msgid "No se ha seleccionado ningún idioma de origen"
+msgstr ""
+
+#: main_window.py:43 main_window.py:48 main_window.py:52 main_window.py:55
+#: translator.py:47
+msgid "Error"
+msgstr ""
+
+#: main_window.py:48
+msgid "No se ha seleccionado ningún idioma de destino"
+msgstr ""
+
+#: main_window.py:52
+msgid ""
+"No se ha introducido nada en el cuadro de edición para realizar la traducción"
+msgstr ""
+
+#: main_window.py:55
+msgid ""
+"No es posible realizar la traducción si los idiomas de origen y destino "
+"coinciden"
+msgstr ""
+
+#: set_language_dialog.py:7
+msgid "Seleccionar idioma de la aplicación"
+msgstr ""
+
+#: set_language_dialog.py:9
+msgid "Selecciona un idioma"
+msgstr ""
+
+#: set_language_dialog.py:11
+msgid "&Aceptar"
+msgstr ""
+
+#: set_language_dialog.py:23
+msgid "El idioma ha sido establecido. Reinicia la aplicación para aplicarlo."
+msgstr ""
+
+#: translator.py:45
+#, python-brace-format
+msgid ""
+"Se tradujo correctamente el texto. La traducción se copió al portapapeles, y "
+"es la siguiente: {}"
+msgstr ""
+
+#: translator.py:45
+msgid "Traducción realizada con éxito"
+msgstr ""
+
+#: translator.py:47
+msgid ""
+"Se produjo un error al realizar la traducción. Verifica tu conexión a "
+"Internet y vuelve a intentarlo"
+msgstr ""
