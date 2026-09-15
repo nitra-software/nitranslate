@@ -1,7 +1,10 @@
+import gettext
+gettext.install("lang")
 import main_window
 import translations_handler
 import no_language_selected
 import wx
+import translations_handler
 app=wx.App()
 
 with open("default_language.txt", "r") as archivo:

@@ -9,7 +9,7 @@ diccionario=landict.idiomas
 
 class Ventana(wx.Frame):
 	def __init__(self):
-		super().__init__(parent=None, title=_("Nitranslate, versión 26.1.4"))
+		super().__init__(parent=None, title=_("Nitranslate, versión 26.2"))
 		panel=wx.Panel(self)
 		sizer=wx.BoxSizer(wx.HORIZONTAL)
 		trad1_label = wx.StaticText(panel, label=_("Selecciona el idioma de origen"))
