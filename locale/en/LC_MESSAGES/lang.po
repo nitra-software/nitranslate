@@ -11,46 +11,192 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.9\n"
 
-#: nitranslate.py:11
-msgid "Nitranslate, versión 26.1.4"
-msgstr "Nitranslate, version 26.1.4"
+#: translator/__init__.py:45
+msgid "Traducción realizada con éxito"
+msgstr "The translation of the text has been created successfully"
 
-#: nitranslate.py:14
-msgid "Selecciona el idioma de origen"
-msgstr "Choose the source language"
+#: translator/__init__.py:47
+msgid ""
+"Se produjo un error al realizar la traducción. Verifica tu conexión a "
+"Internet y vuelve a intentarlo"
+msgstr ""
+"An error occurred while performing the translation. Verify your Internet "
+"connection and try again later."
 
-#: nitranslate.py:19
-msgid "Escribe aquí el texto que quieres traducir: "
-msgstr "Type here the text that should be translated"
-
-#: nitranslate.py:23
-msgid "Selecciona el idioma de destino"
-msgstr "Choose the target language"
-
-#: nitranslate.py:28
-msgid "&Traducir"
-msgstr "Translate"
-
-#: nitranslate.py:38
-msgid "No se ha seleccionado ningún idioma de origen"
-msgstr "No source language has been selected"
-
-#: nitranslate.py:38 nitranslate.py:43 nitranslate.py:47 nitranslate.py:50
+#: translator/__init__.py:47 main_window.py:43 main_window.py:48
+#: main_window.py:52 main_window.py:55
 msgid "Error"
 msgstr "Error"
 
-#: nitranslate.py:43
-msgid "No se ha seleccionado ningún idioma de destino"
-msgstr "No target language has been selected"
+#: landict.py:2
+msgid "Alemán"
+msgstr "German"
 
-#: nitranslate.py:47
+#: landict.py:3
+msgid "Árabe"
+msgstr "Arabic"
+
+#: landict.py:4
+msgid "Catalán"
+msgstr "Catalan"
+
+#: landict.py:5
+msgid "Corso"
+msgstr "Corsican"
+
+#: landict.py:6
+msgid "Criollo haitiano"
+msgstr "Haitian Creole"
+
+#: landict.py:7
+msgid "Croata"
+msgstr "Croatian"
+
+#: landict.py:8
+msgid "Español"
+msgstr "Spanish"
+
+#: landict.py:9
+msgid "Esperanto"
+msgstr "Esperanto"
+
+#: landict.py:10
+msgid "Euskera"
+msgstr "Basque"
+
+#: landict.py:11
+msgid "Filipino (Tagalo)"
+msgstr "Tagalog"
+
+#: landict.py:12
+msgid "Finés"
+msgstr "Finnish"
+
+#: landict.py:13
+msgid "Francés"
+msgstr "French"
+
+#: landict.py:14
+msgid "Gallego"
+msgstr "Galician"
+
+#: landict.py:15
+msgid "Griego"
+msgstr "Greek"
+
+#: landict.py:16
+msgid "Holandés"
+msgstr "Dutch"
+
+#: landict.py:17
+msgid "Hindi"
+msgstr "Hindi"
+
+#: landict.py:18
+msgid "Indonesio"
+msgstr "Indonesian"
+
+#: landict.py:19
+msgid "Inglés"
+msgstr "English"
+
+#: landict.py:20
+msgid "Italiano"
+msgstr "Italian"
+
+#: landict.py:21
+msgid "Japonés"
+msgstr "Japanese"
+
+#: landict.py:22
+msgid "Latín"
+msgstr "Latin"
+
+#: landict.py:23
+msgid "Maltés"
+msgstr "Maltese"
+
+#: landict.py:24
+msgid "Portugués"
+msgstr "Portuguese"
+
+#: landict.py:25
+msgid "Rumano"
+msgstr "Romanian"
+
+#: landict.py:26
+msgid "Ruso"
+msgstr "Russian"
+
+#: landict.py:27
+msgid "Servio"
+msgstr "Serbian"
+
+#: landict.py:28
+msgid "Sueco"
+msgstr "Swedish"
+
+#: landict.py:29
+msgid "Turco"
+msgstr "Turkish"
+
+#: landict.py:30
+msgid "Ucraniano"
+msgstr "Ukrainian"
+
+#: main_window.py:16
+msgid "Selecciona el idioma de origen"
+msgstr "Select the source language"
+
+#: main_window.py:21
+msgid "Escribe aquí el texto que quieres traducir: "
+msgstr "Type here the text to translate"
+
+#: main_window.py:25
+msgid "Selecciona el idioma de destino"
+msgstr "Select the target language"
+
+#: main_window.py:30
+msgid "&Traducir"
+msgstr "&Translate"
+
+#: main_window.py:33
+msgid "Cambiar idio&ma"
+msgstr "Change &language"
+
+#: main_window.py:43
+msgid "No se ha seleccionado ningún idioma de origen"
+msgstr "Any source language has been selected"
+
+#: main_window.py:48
+msgid "No se ha seleccionado ningún idioma de destino"
+msgstr "Any target language has been selected"
+
+#: main_window.py:52
 msgid ""
 "No se ha introducido nada en el cuadro de edición para realizar la traducción"
-msgstr "Nothing has been entered in the edit box to perform the translation"
+msgstr "The edit box is blanc. Nothing for translate"
 
-#: nitranslate.py:50
+#: main_window.py:55
 msgid ""
 "No es posible realizar la traducción si los idiomas de origen y destino "
 "coinciden"
 msgstr ""
-"Translation is not possible if the source and target languages ​​are the same"
+"It isn't posible to perform the translation if both target and source "
+"languages are the same"
+
+#: set_language_dialog.py:7
+msgid "Seleccionar idioma de la aplicación"
+msgstr "Select the program's language"
+
+#: set_language_dialog.py:9
+msgid "Selecciona un idioma"
+msgstr "Select a language"
+
+#: set_language_dialog.py:11
+msgid "&Aceptar"
+msgstr "&OK"
+
+#: set_language_dialog.py:23
+msgid "El idioma ha sido establecido. Reinicia la aplicación para aplicarlo."
+msgstr "The language has been establised. Restart the program to aply it"
