@@ -23,3 +23,4 @@ class Ventana(wx.Dialog):
 			newlang=new.write(languages)
 
 		wx.MessageBox("The default language has been establised. Restart the program to aply the new language")
+		self.Destroy()

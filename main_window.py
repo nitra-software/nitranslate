@@ -4,12 +4,13 @@ import wx
 import translator
 import threading
 import set_language_dialog
+from version import v
 idiomas = landict.idiomas_naturales
 diccionario=landict.idiomas
 
 class Ventana(wx.Frame):
 	def __init__(self):
-		super().__init__(parent=None, title=_("Nitranslate, versión 26.2"))
+		super().__init__(parent=None, title=_(f"Nitranslate, versión {v}"))
 		panel=wx.Panel(self)
 		sizer=wx.BoxSizer(wx.HORIZONTAL)
 		trad1_label = wx.StaticText(panel, label=_("Selecciona el idioma de origen"))
