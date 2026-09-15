@@ -22,4 +22,4 @@ class Ventana(wx.Dialog):
 		with open("default_language.txt", "w") as new:
 			newlang=new.write(languages)
 
-		wx.MessageBox("The default language has been establised. Restart the program to aply the new language", wx.OK)
+		wx.MessageBox("The default language has been establised. Restart the program to aply the new language")
