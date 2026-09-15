@@ -42,6 +42,6 @@ def translate(source, target, text):
 		else:
 			result = data[0] or ""
 		copy(result)
-		wx.MessageBox(_(f"Se tradujo correctamente el texto. La traducción se copió al portapapeles, y es la siguiente: {result}"), _("Traducción realizada con éxito"))
+		wx.MessageBox(_("Se tradujo correctamente el texto. La traducción se copió al portapapeles, y es la siguiente: {}").format(result), _("Traducción realizada con éxito"))
 	except Exception:
 		wx.MessageBox(_("Se produjo un error al realizar la traducción. Verifica tu conexión a Internet y vuelve a intentarlo"), _("Error"))
