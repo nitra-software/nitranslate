@@ -6,9 +6,13 @@ class setLanguage(wx.Dialog):
 	def __init__(self, parent=None):
 		super().__init__(parent, title=_("Seleccionar idioma de la aplicación"))
 		panel=wx.Panel(self)
+		sizer=wx.BoxSizer(wx.HORIZONTAL)
 		label1=wx.StaticText(panel, label=_("Selecciona un idioma"))
+		sizer.Add(label1, 0, wx.ALL, 5)
 		self.selector=wx.Choice(panel, choices=list(lista_de_idiomas))
+		sizer.Add(self.selector, 0, wx.ALL, 5)
 		accept=wx.Button(panel, label=_("&Aceptar"))
+		sizer.Add(accept, 0, wx.ALL, 5)
 		accept.Bind(wx.EVT_BUTTON, self.cambiar_idioma)
 		self.Show()
 	def cambiar_idioma(self, event):

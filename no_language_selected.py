@@ -5,11 +5,17 @@ class Ventana(wx.Dialog):
 	def __init__(self, parent=None):
 		super().__init__(parent, title="Select a language")
 		panel=wx.Panel(self)
-		maininfo=wx.StaticText(panel, label="It looks like this is the first time you have oppened the program. Please, select a language to continue, you can change it in the app's main window.")
+		sizer=wx.BoxSizer(wx.HORIZONTAL)
+		maininfo=wx.StaticText(panel, label="It looks like this is the first time you have opened the program. Please, select a language to continue, you can change it in the app's main window.")
+		sizer.Add(maininfo, 0, wx.ALL, 5)
 		label1=wx.StaticText(panel, label="Choose a language")
+		sizer.Add(label1, 0, wx.ALL, 5)
 		self.selector=wx.Choice(panel, choices=list(lista_de_idiomas))
+		sizer.Add(self.selector, 0, wx.ALL, 5)
 		accept=wx.Button(panel, label="&OK")
+		sizer.Add(accept, 0, wx.ALL, 5)
 		accept.Bind(wx.EVT_BUTTON, self.set_default)
+		panel.SetSizer(sizer)
 		self.Show()
 
 	def set_default(self, event):
