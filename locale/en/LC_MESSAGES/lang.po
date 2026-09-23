@@ -1,0 +1,1078 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.9\n"
+
+#: landict.py:2
+msgid "afar"
+msgstr "Afar"
+
+#: landict.py:3
+msgid "abjasio"
+msgstr "Abkhazian"
+
+#: landict.py:4
+msgid "achenés"
+msgstr "Acehnese"
+
+#: landict.py:5
+msgid "acholi"
+msgstr "Acholi"
+
+#: landict.py:6
+msgid "afrikáans"
+msgstr "Afrikaans"
+
+#: landict.py:7
+msgid "twi"
+msgstr "Twi"
+
+#: landict.py:8
+msgid "alur"
+msgstr "Alur"
+
+#: landict.py:9
+msgid "amhárico"
+msgstr "Amharic"
+
+#: landict.py:10
+msgid "árabe"
+msgstr "Arabic"
+
+#: landict.py:11
+msgid "asamés"
+msgstr "Assamese"
+
+#: landict.py:12
+msgid "avar"
+msgstr "Avar"
+
+#: landict.py:13
+msgid "avadhi"
+msgstr "Awadhi"
+
+#: landict.py:14
+msgid "aimara"
+msgstr "Aymara"
+
+#: landict.py:15
+msgid "azerí"
+msgstr "Azerbaijani"
+
+#: landict.py:16
+msgid "baskir"
+msgstr "Bashkir"
+
+#: landict.py:17
+msgid "baluchí"
+msgstr "Balochi"
+
+#: landict.py:18
+msgid "balinés"
+msgstr "Balinese"
+
+#: landict.py:19
+msgid "batak toba"
+msgstr "Batak Toba"
+
+#: landict.py:20
+msgid "baoulé"
+msgstr "Baoulé"
+
+#: landict.py:21
+msgid "bielorruso"
+msgstr "Belarusian"
+
+#: landict.py:22
+msgid "bemba"
+msgstr "Bemba"
+
+#: landict.py:23
+msgid "tamazight (tifinag)"
+msgstr "Tamazight (Tifinagh)"
+
+#: landict.py:24
+msgid "tamazight (latino)"
+msgstr "Tamazight (Latin)"
+
+#: landict.py:25
+msgid "betawi"
+msgstr "Betawi"
+
+#: landict.py:26
+msgid "búlgaro"
+msgstr "Bulgarian"
+
+#: landict.py:27
+msgid "bhoyapurí"
+msgstr "Bhojpuri"
+
+#: landict.py:28
+msgid "bikol"
+msgstr "Bikol"
+
+#: landict.py:29
+msgid "bambara"
+msgstr "Bambara"
+
+#: landict.py:30
+msgid "n'ko"
+msgstr "N'Ko"
+
+#: landict.py:31
+msgid "bengalí"
+msgstr "Bengali"
+
+#: landict.py:32
+msgid "tibetano"
+msgstr "Tibetan"
+
+#: landict.py:33
+msgid "bretón"
+msgstr "Breton"
+
+#: landict.py:34
+msgid "bosnio"
+msgstr "Bosnian"
+
+#: landict.py:35
+msgid "batak simalungun"
+msgstr "Batak Simalungun"
+
+#: landict.py:36
+msgid "batak karo"
+msgstr "Batak Karo"
+
+#: landict.py:37
+msgid "buriato"
+msgstr "Buryat"
+
+#: landict.py:38
+msgid "catalán"
+msgstr "Catalan"
+
+#: landict.py:39
+msgid "checheno"
+msgstr "Chechen"
+
+#: landict.py:40
+msgid "cebuano"
+msgstr "Cebuano"
+
+#: landict.py:41
+msgid "kiga"
+msgstr "Chiga"
+
+#: landict.py:42
+msgid "chamorro"
+msgstr "Chamorro"
+
+#: landict.py:43
+msgid "trukés"
+msgstr "Chuukese"
+
+#: landict.py:44
+msgid "marí de las praderas"
+msgstr "Meadow Mari"
+
+#: landict.py:45
+msgid "kurdo (sorani)"
+msgstr "Kurdish (Sorani)"
+
+#: landict.py:46
+msgid "hakha chin"
+msgstr "Hakha Chin"
+
+#: landict.py:47
+msgid "corso"
+msgstr "Corsican"
+
+#: landict.py:48
+msgid "tártaro de Crimea (cirílico)"
+msgstr "Crimean Tatar (Cyrillic)"
+
+#: landict.py:49
+msgid "tártaro de Crimea (latino)"
+msgstr "Crimean Tatar (Latin)"
+
+#: landict.py:50
+msgid "criollo seychellense"
+msgstr "Seychellois Creole"
+
+#: landict.py:51
+msgid "checo"
+msgstr "Czech"
+
+#: landict.py:52
+msgid "chuvasio"
+msgstr "Chuvash"
+
+#: landict.py:53
+msgid "galés"
+msgstr "Welsh"
+
+#: landict.py:54
+msgid "danés"
+msgstr "Danish"
+
+#: landict.py:55
+msgid "alemán"
+msgstr "German"
+
+#: landict.py:56
+msgid "dinka"
+msgstr "Dinka"
+
+#: landict.py:57
+msgid "dogri"
+msgstr "Dogri"
+
+#: landict.py:58
+msgid "ndombe"
+msgstr "Ndombe"
+
+#: landict.py:59
+msgid "divehi"
+msgstr "Divehi"
+
+#: landict.py:60
+msgid "diula"
+msgstr "Dyula"
+
+#: landict.py:61
+msgid "dzongkha"
+msgstr "Dzongkha"
+
+#: landict.py:62
+msgid "ewé"
+msgstr "Ewe"
+
+#: landict.py:63
+msgid "griego"
+msgstr "Greek"
+
+#: landict.py:64
+msgid "inglés"
+msgstr "English"
+
+#: landict.py:65
+msgid "esperanto"
+msgstr "Esperanto"
+
+#: landict.py:66
+msgid "español"
+msgstr "Spanish"
+
+#: landict.py:67
+msgid "estonio"
+msgstr "Estonian"
+
+#: landict.py:68
+msgid "euskera"
+msgstr "Basque"
+
+#: landict.py:69
+msgid "persa"
+msgstr "Persian"
+
+#: landict.py:70
+msgid "darí"
+msgstr "Dari"
+
+#: landict.py:71
+msgid "fulani"
+msgstr "Fulani"
+
+#: landict.py:72
+msgid "finlandés"
+msgstr "Finnish"
+
+#: landict.py:73
+msgid "fiyiano"
+msgstr "Fijian"
+
+#: landict.py:74
+msgid "feroés"
+msgstr "Faroese"
+
+#: landict.py:75
+msgid "fon"
+msgstr "Fon"
+
+#: landict.py:76
+msgid "francés"
+msgstr "French"
+
+#: landict.py:77
+msgid "francés (Canadá)"
+msgstr "French (Canada)"
+
+#: landict.py:78
+msgid "friulano"
+msgstr "Friulian"
+
+#: landict.py:79
+msgid "frisio"
+msgstr "Frisian"
+
+#: landict.py:80
+msgid "irlandés"
+msgstr "Irish"
+
+#: landict.py:81
+msgid "ga"
+msgstr "Ga"
+
+#: landict.py:82
+msgid "gaélico escocés"
+msgstr "Scottish Gaelic"
+
+#: landict.py:83
+msgid "gallego"
+msgstr "Galician"
+
+#: landict.py:84
+msgid "guaraní"
+msgstr "Guarani"
+
+#: landict.py:85
+msgid "konkaní"
+msgstr "Konkani"
+
+#: landict.py:86
+msgid "gujarati"
+msgstr "Gujarati"
+
+#: landict.py:87
+msgid "manés"
+msgstr "Manx"
+
+#: landict.py:88
+msgid "hausa"
+msgstr "Hausa"
+
+#: landict.py:89
+msgid "hawaiano"
+msgstr "Hawaiian"
+
+#: landict.py:90
+msgid "hebreo"
+msgstr "Hebrew"
+
+#: landict.py:91
+msgid "hindi"
+msgstr "Hindi"
+
+#: landict.py:92
+msgid "hiligaynon"
+msgstr "Hiligaynon"
+
+#: landict.py:93
+msgid "hmong"
+msgstr "Hmong"
+
+#: landict.py:94
+msgid "croata"
+msgstr "Croatian"
+
+#: landict.py:95
+msgid "hunsrik"
+msgstr "Hunsrik"
+
+#: landict.py:96
+msgid "criollo haitiano"
+msgstr "Haitian Creole"
+
+#: landict.py:97
+msgid "húngaro"
+msgstr "Hungarian"
+
+#: landict.py:98
+msgid "armenio"
+msgstr "Armenian"
+
+#: landict.py:99
+msgid "iban"
+msgstr "Iban"
+
+#: landict.py:100
+msgid "indonesio"
+msgstr "Indonesian"
+
+#: landict.py:101
+msgid "igbo"
+msgstr "Igbo"
+
+#: landict.py:102
+msgid "ilocano"
+msgstr "Ilocano"
+
+#: landict.py:103
+msgid "islandés"
+msgstr "Icelandic"
+
+#: landict.py:104
+msgid "italiano"
+msgstr "Italian"
+
+#: landict.py:105
+msgid "inuktut (silabario)"
+msgstr "Inuktut (Syllabics)"
+
+#: landict.py:106
+msgid "inuktut (latino)"
+msgstr "Inuktut (Latin)"
+
+#: landict.py:107
+msgid "japonés"
+msgstr "Japanese"
+
+#: landict.py:108
+msgid "patois jamaiquino"
+msgstr "Jamaican Patois"
+
+#: landict.py:109
+msgid "javanés"
+msgstr "Javanese"
+
+#: landict.py:110
+msgid "georgiano"
+msgstr "Georgian"
+
+#: landict.py:111
+msgid "jingpo"
+msgstr "Jingpo"
+
+#: landict.py:112
+msgid "quekchí"
+msgstr "Q'eqchi'"
+
+#: landict.py:113
+msgid "kikongo"
+msgstr "Kikongo"
+
+#: landict.py:114
+msgid "khasi"
+msgstr "Khasi"
+
+#: landict.py:115
+msgid "kazajo"
+msgstr "Kazakh"
+
+#: landict.py:116
+msgid "kalaallisut"
+msgstr "Kalaallisut"
+
+#: landict.py:117
+msgid "camboyano"
+msgstr "Khmer"
+
+#: landict.py:118
+msgid "canarés"
+msgstr "Kannada"
+
+#: landict.py:119
+msgid "coreano"
+msgstr "Korean"
+
+#: landict.py:120
+msgid "kanuri"
+msgstr "Kanuri"
+
+#: landict.py:121
+msgid "krio"
+msgstr "Krio"
+
+#: landict.py:122
+msgid "kituba"
+msgstr "Kituba"
+
+#: landict.py:123
+msgid "kurdo (kurmanyi)"
+msgstr "Kurdish (Kurmanji)"
+
+#: landict.py:124
+msgid "komi"
+msgstr "Komi"
+
+#: landict.py:125
+msgid "kirguís"
+msgstr "Kyrgyz"
+
+#: landict.py:126
+msgid "latín"
+msgstr "Latin"
+
+#: landict.py:127
+msgid "luxemburgués"
+msgstr "Luxembourgish"
+
+#: landict.py:128
+msgid "luganda"
+msgstr "Luganda"
+
+#: landict.py:129
+msgid "limburgués"
+msgstr "Limburgish"
+
+#: landict.py:130
+msgid "ligur"
+msgstr "Ligurian"
+
+#: landict.py:131
+msgid "lombardo"
+msgstr "Lombard"
+
+#: landict.py:132
+msgid "lingala"
+msgstr "Lingala"
+
+#: landict.py:133
+msgid "lao"
+msgstr "Lao"
+
+#: landict.py:134
+msgid "lituano"
+msgstr "Lithuanian"
+
+#: landict.py:135
+msgid "latgaliano"
+msgstr "Latgalian"
+
+#: landict.py:136
+msgid "chiluba"
+msgstr "Tshiluba"
+
+#: landict.py:137
+msgid "luo"
+msgstr "Luo"
+
+#: landict.py:138
+msgid "mizo"
+msgstr "Mizo"
+
+#: landict.py:139
+msgid "letón"
+msgstr "Latvian"
+
+#: landict.py:140
+msgid "madurés"
+msgstr "Madurese"
+
+#: landict.py:141
+msgid "maithili"
+msgstr "Maithili"
+
+#: landict.py:142
+msgid "makassar"
+msgstr "Makassar"
+
+#: landict.py:143
+msgid "mam"
+msgstr "Mam"
+
+#: landict.py:144
+msgid "criollo mauriciano"
+msgstr "Mauritian Creole"
+
+#: landict.py:145
+msgid "malgache"
+msgstr "Malagasy"
+
+#: landict.py:146
+msgid "marshalés"
+msgstr "Marshallese"
+
+#: landict.py:147
+msgid "maorí"
+msgstr "Maori"
+
+#: landict.py:148
+msgid "minangkabau"
+msgstr "Minangkabau"
+
+#: landict.py:149
+msgid "macedonio"
+msgstr "Macedonian"
+
+#: landict.py:150
+msgid "malayalam"
+msgstr "Malayalam"
+
+#: landict.py:151
+msgid "mongol"
+msgstr "Mongolian"
+
+#: landict.py:152
+msgid "meiteilon (manipurí)"
+msgstr "Meiteilon (Manipuri)"
+
+#: landict.py:153
+msgid "maratí"
+msgstr "Marathi"
+
+#: landict.py:154
+msgid "malayo"
+msgstr "Malay"
+
+#: landict.py:155
+msgid "malayo (jawi)"
+msgstr "Malay (Jawi)"
+
+#: landict.py:156
+msgid "maltés"
+msgstr "Maltese"
+
+#: landict.py:157
+msgid "marwari"
+msgstr "Marwari"
+
+#: landict.py:158
+msgid "birmano"
+msgstr "Burmese"
+
+#: landict.py:159
+msgid "ndau"
+msgstr "Ndau"
+
+#: landict.py:160
+msgid "nepalí"
+msgstr "Nepali"
+
+#: landict.py:161
+msgid "nepalbhasa (newarí)"
+msgstr "Nepalbhasa (Newari)"
+
+#: landict.py:162
+msgid "náhuatl (Huasteca oriental)"
+msgstr "Nahuatl (Eastern Huasteca)"
+
+#: landict.py:163
+msgid "neerlandés"
+msgstr "Dutch"
+
+#: landict.py:164
+msgid "noruego"
+msgstr "Norwegian"
+
+#: landict.py:165
+msgid "ndebele meridional"
+msgstr "Southern Ndebele"
+
+#: landict.py:166
+msgid "sepedi"
+msgstr "Sepedi"
+
+#: landict.py:167
+msgid "nuer"
+msgstr "Nuer"
+
+#: landict.py:168
+msgid "chichewa"
+msgstr "Chichewa"
+
+#: landict.py:169
+msgid "occitano"
+msgstr "Occitan"
+
+#: landict.py:170
+msgid "oromo"
+msgstr "Oromo"
+
+#: landict.py:171
+msgid "odia (oriya)"
+msgstr "Odia (Oriya)"
+
+#: landict.py:172
+msgid "osético"
+msgstr "Ossetian"
+
+#: landict.py:173
+msgid "panyabí (gurmukhi)"
+msgstr "Punjabi (Gurmukhi)"
+
+#: landict.py:174
+msgid "panyabí (shahmukhi)"
+msgstr "Punjabi (Shahmukhi)"
+
+#: landict.py:175
+msgid "pangasinán"
+msgstr "Pangasinan"
+
+#: landict.py:176
+msgid "pampango"
+msgstr "Kapampangan"
+
+#: landict.py:177
+msgid "papiamento"
+msgstr "Papiamento"
+
+#: landict.py:178
+msgid "polaco"
+msgstr "Polish"
+
+#: landict.py:179
+msgid "pastún"
+msgstr "Pashto"
+
+#: landict.py:180
+msgid "portugués (Brasil)"
+msgstr "Portuguese (Brazil)"
+
+#: landict.py:181
+msgid "portugués (Portugal)"
+msgstr "Portuguese (Portugal)"
+
+#: landict.py:182
+msgid "quechua"
+msgstr "Quechua"
+
+#: landict.py:183
+msgid "kirundi"
+msgstr "Kirundi"
+
+#: landict.py:184
+msgid "rumano"
+msgstr "Romanian"
+
+#: landict.py:185
+msgid "romaní"
+msgstr "Romani"
+
+#: landict.py:186
+msgid "ruso"
+msgstr "Russian"
+
+#: landict.py:187
+msgid "kinyarwanda"
+msgstr "Kinyarwanda"
+
+#: landict.py:188
+msgid "sánscrito"
+msgstr "Sanskrit"
+
+#: landict.py:189
+msgid "yakuto"
+msgstr "Yakut"
+
+#: landict.py:190
+msgid "santalí (ol chiki)"
+msgstr "Santali (Ol Chiki)"
+
+#: landict.py:191
+msgid "santalí (latino)"
+msgstr "Santali (Latin)"
+
+#: landict.py:192
+msgid "siciliano"
+msgstr "Sicilian"
+
+#: landict.py:193
+msgid "sindhi"
+msgstr "Sindhi"
+
+#: landict.py:194
+msgid "sami septentrional"
+msgstr "Northern Sami"
+
+#: landict.py:195
+msgid "sango"
+msgstr "Sango"
+
+#: landict.py:196
+msgid "shan"
+msgstr "Shan"
+
+#: landict.py:197
+msgid "cingalés"
+msgstr "Sinhala"
+
+#: landict.py:198
+msgid "eslovaco"
+msgstr "Slovak"
+
+#: landict.py:199
+msgid "esloveno"
+msgstr "Slovenian"
+
+#: landict.py:200
+msgid "samoano"
+msgstr "Samoan"
+
+#: landict.py:201
+msgid "shona"
+msgstr "Shona"
+
+#: landict.py:202
+msgid "somalí"
+msgstr "Somali"
+
+#: landict.py:203
+msgid "albanés"
+msgstr "Albanian"
+
+#: landict.py:204
+msgid "serbio"
+msgstr "Serbian"
+
+#: landict.py:205
+msgid "suazi"
+msgstr "Swazi"
+
+#: landict.py:206
+msgid "sesoto"
+msgstr "Sesotho"
+
+#: landict.py:207
+msgid "sundanés"
+msgstr "Sundanese"
+
+#: landict.py:208
+msgid "susu"
+msgstr "Susu"
+
+#: landict.py:209
+msgid "sueco"
+msgstr "Swedish"
+
+#: landict.py:210
+msgid "suajili"
+msgstr "Swahili"
+
+#: landict.py:211
+msgid "silesio"
+msgstr "Silesian"
+
+#: landict.py:212
+msgid "tamil"
+msgstr "Tamil"
+
+#: landict.py:213
+msgid "tulu"
+msgstr "Tulu"
+
+#: landict.py:214
+msgid "telugu"
+msgstr "Telugu"
+
+#: landict.py:215
+msgid "tetun"
+msgstr "Tetum"
+
+#: landict.py:216
+msgid "tayiko"
+msgstr "Tajik"
+
+#: landict.py:217
+msgid "tailandés"
+msgstr "Thai"
+
+#: landict.py:218
+msgid "tigrinya"
+msgstr "Tigrinya"
+
+#: landict.py:219
+msgid "tiv"
+msgstr "Tiv"
+
+#: landict.py:220
+msgid "turkmeno"
+msgstr "Turkmen"
+
+#: landict.py:221
+msgid "filipino"
+msgstr "Filipino"
+
+#: landict.py:222
+msgid "setsuana"
+msgstr "Tswana"
+
+#: landict.py:223
+msgid "tongano"
+msgstr "Tongan"
+
+#: landict.py:224
+msgid "tok pisin"
+msgstr "Tok Pisin"
+
+#: landict.py:225
+msgid "turco"
+msgstr "Turkish"
+
+#: landict.py:226
+msgid "kokborok"
+msgstr "Kokborok"
+
+#: landict.py:227
+msgid "tsonga"
+msgstr "Tsonga"
+
+#: landict.py:228
+msgid "tártaro"
+msgstr "Tatar"
+
+#: landict.py:229
+msgid "tumbuka"
+msgstr "Tumbuka"
+
+#: landict.py:230
+msgid "tahitiano"
+msgstr "Tahitian"
+
+#: landict.py:231
+msgid "tuviniano"
+msgstr "Tuvan"
+
+#: landict.py:232
+msgid "udmurto"
+msgstr "Udmurt"
+
+#: landict.py:233
+msgid "uigur"
+msgstr "Uyghur"
+
+#: landict.py:234
+msgid "ucraniano"
+msgstr "Ukrainian"
+
+#: landict.py:235
+msgid "urdu"
+msgstr "Urdu"
+
+#: landict.py:236
+msgid "uzbeco"
+msgstr "Uzbek"
+
+#: landict.py:237
+msgid "venda"
+msgstr "Venda"
+
+#: landict.py:238
+msgid "véneto"
+msgstr "Venetian"
+
+#: landict.py:239
+msgid "vietnamita"
+msgstr "Vietnamese"
+
+#: landict.py:240
+msgid "samareño"
+msgstr "Waray"
+
+#: landict.py:241
+msgid "wólof"
+msgstr "Wolof"
+
+#: landict.py:242
+msgid "xhosa"
+msgstr "Xhosa"
+
+#: landict.py:243
+msgid "yidis"
+msgstr "Yiddish"
+
+#: landict.py:244
+msgid "yoruba"
+msgstr "Yoruba"
+
+#: landict.py:245
+msgid "maya yucateco"
+msgstr "Yucatec Maya"
+
+#: landict.py:246
+msgid "cantonés"
+msgstr "Cantonese"
+
+#: landict.py:247
+msgid "zapoteco"
+msgstr "Zapotec"
+
+#: landict.py:248
+msgid "Chino"
+msgstr "Chinese"
+
+#: landict.py:249
+msgid "zulú"
+msgstr "Zulu"
+
+#: main_window.py:13
+#, python-brace-format
+msgid "Nitranslate, versión {}"
+msgstr "Nitranslate, version {}"
+
+#: main_window.py:16
+msgid "Selecciona el idioma de origen"
+msgstr "Select the source language"
+
+#: main_window.py:21
+msgid "Escribe aquí el texto que quieres traducir: "
+msgstr "Type here the text you want to translate: "
+
+#: main_window.py:25
+msgid "Selecciona el idioma de destino"
+msgstr "Select the target language"
+
+#: main_window.py:30
+msgid "&Traducir"
+msgstr "&Translate"
+
+#: main_window.py:33
+msgid "Cambiar idio&ma"
+msgstr "Change lang&uage"
+
+#: main_window.py:43
+msgid "No se ha seleccionado ningún idioma de origen"
+msgstr "No source language has been selected"
+
+#: main_window.py:43 main_window.py:48 main_window.py:52 main_window.py:55 translator.py:47
+msgid "Error"
+msgstr "Error"
+
+#: main_window.py:48
+msgid "No se ha seleccionado ningún idioma de destino"
+msgstr "No target language has been selected"
+
+#: main_window.py:52
+msgid "No se ha introducido nada en el cuadro de edición para realizar la traducción"
+msgstr "Nothing has been entered in the text box to perform the translation"
+
+#: main_window.py:55
+msgid "No es posible realizar la traducción si los idiomas de origen y destino coinciden"
+msgstr "The translation cannot be performed if the source and target languages match"
+
+#: set_language_dialog.py:7
+msgid "Seleccionar idioma de la aplicación"
+msgstr "Select the application language"
+
+#: set_language_dialog.py:10
+msgid "Selecciona un idioma"
+msgstr "Select a language"
+
+#: set_language_dialog.py:14
+msgid "&Aceptar"
+msgstr "&Accept"
+
+#: set_language_dialog.py:27
+msgid "El idioma ha sido establecido. Reinicia la aplicación para aplicarlo."
+msgstr "The language has been set. Restart the application to apply it."
+
+#: translator.py:45
+#, python-brace-format
+msgid "Se tradujo correctamente el texto. La traducción se copió al portapapeles, y es la siguiente: {}"
+msgstr "The text was translated successfully. The translation was copied to the clipboard, and it is the following: {}"
+
+#: translator.py:45
+msgid "Traducción realizada con éxito"
+msgstr "Translation successfully performed"
+
+#: translator.py:47
+msgid "Se produjo un error al realizar la traducción. Verifica tu conexión a Internet y vuelve a intentarlo"
+msgstr "An error occurred while performing the translation. Check your Internet connection and try again"
